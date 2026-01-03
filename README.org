@@ -1,5 +1,9 @@
 #+TITLE:Chur
 
+Note: This fork was created to honor the creator of this project. New developments will continue at: https://codeberg.org/polewik/Leshy  
+
+=== ORIGINAL CONTENT PAST THIS POINT ===
+
 ARCHIVED: Pentesting is not the first priority for me now, so this
 channel is not really maintainable.
  
